@@ -9,4 +9,4 @@
 3. Open output.txt file. Here is decoded message.
 
 
-P.S. Сompleted as part of the homework for the subject "BAB37ZPR – Základy programování"
+P.S. Сompleted as part of the homework for the subject "BAB37ZPR – Základy programování" 12.11.2021
